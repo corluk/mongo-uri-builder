@@ -1,5 +1,5 @@
-import { UriBuilder, UriQueryBuilder, IUriQueryModel } from "uribuilder"
-import { copyFile } from "fs"
+import { UriBuilder,  IUriQueryModel } from "uribuilder"
+ 
 export interface MongoUriBuilderConfigOptions {
 
     tls?: boolean,
