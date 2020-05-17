@@ -1,6 +1,6 @@
 {
   "name": "mongo-uri-builder",
-  "version": "3.0.2",
+  "version": "3.1.0-alpha.1",
   "description": "A module to easily create mongodb connection strings using configuration objects",
   "main": "index.js",
   "scripts": {

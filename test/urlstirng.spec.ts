@@ -43,4 +43,5 @@ describe("Mongo Uri Builder Tests"  , ()=>{
         let uri = mongouribuilder(config) 
         expect(uri.toString()).to.match(/[\w\d]+:[\w\d]+@/)  
     })
+    
 })
